@@ -1,1 +1,2 @@
 "Commit on $current" 
+"Commit on $current" 
